@@ -3,8 +3,8 @@
 </h1>
 
 ## I'm a Student and Developer!
-- 🌱 I’m currently learning Front-end
-- 👯 I’m seeking a Summer Internship
+- 🌱 I’m currently learning Front-end.
+- 👯 I’m seeking a Summer Internship.
 - 🥅 2020 Goals: read 50 books, currently 14.
 - ⚡ Fun fact: I'm a homebody, Like biking around my city.
 
