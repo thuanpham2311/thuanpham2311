@@ -1,8 +1,11 @@
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="500" height="400">
+
 <h1>
      Hi there, I'm Thuan <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif"
 </h1>
 
 ## I'm a Student and Developer!
+
 - 🌱 I’m currently learning Front-end.
 - 👯 I’m seeking a Summer Internship.
 - 🥅 2020 Goals: read 50 books, currently 14.
