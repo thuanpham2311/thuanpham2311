@@ -11,13 +11,14 @@
 - 🥅 2020 Goals: read 50 books, currently 14.
 - ⚡ Fun fact: I'm a homebody, Like biking around my city.
 
+<br />
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
-<br />
 
 ### Languages and Tools:
 
