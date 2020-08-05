@@ -1,4 +1,6 @@
-### Hi there, I'm Thuan
+<h2>
+     Hi there, I'm Thuan <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif"
+</h2>
 
 ## I'm a Student and Developer!
 - 🌱 I’m currently learning Front-end
