@@ -30,8 +30,8 @@
 
 ---
 
-<img align="left" alt="Thuan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thuanpham2311&show_icons=true&hide_border=true" />
-<img align="right" alt="Thuan's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham2311&layout=compact" />
+<img  alt="Thuan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thuanpham2311&show_icons=true&hide_border=true" />
+<img  alt="Thuan's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham2311&layout=compact" />
 
 [youtube]: https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw
 [linkedin]: https://linkedin.com/in/thuanpham2311
