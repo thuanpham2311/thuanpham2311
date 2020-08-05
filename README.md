@@ -31,7 +31,8 @@
 ---
 
 <img align="center" alt="Thuan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thuanpham2311&show_icons=true&hide_border=true" />
-<img align="center" alt="Thuan's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham2311&layout=compact" />
+
+<img align="center" alt="Thuan's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham2311&layout=compact&hide_border=true" />
 
 [youtube]: https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw
 [linkedin]: https://linkedin.com/in/thuanpham2311
