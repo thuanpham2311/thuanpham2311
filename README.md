@@ -1,4 +1,4 @@
-### Hi there, I'm Thuan
+#### Hi there, I'm Thuan
 
 ## I'm a Student and Developer!
 - 🌱 I’m currently learning Front-end
