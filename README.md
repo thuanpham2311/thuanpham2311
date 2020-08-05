@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="200" height="100">
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="250" height="200">
 
 <h1>
      Hi there, I'm Thuan <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif"
