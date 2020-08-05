@@ -13,9 +13,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<!-- <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
+
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://raw.githubusercontent.com/thuanpham2311/img/master/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/thuanpham2311/img/master/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://raw.githubusercontent.com/thuanpham2311/img/master/icons/facebook.svg" />][facebook]
 
 <br />
 <br />
