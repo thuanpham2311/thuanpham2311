@@ -1,7 +1,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="GIF" width="450" height="400">
 
 <h1>
-     Hi there, I'm Thuan - aka Nicholas <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif">
+     Hi there, I'm Thuan<img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif">
 </h1>
 
 ## I'm a Student and Developer!
