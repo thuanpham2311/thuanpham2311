@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Front-end.
 - 👯 I’m seeking a Summer Internship.
-- 🥅 2020 Goals: read 50 books, currently 15.
+- 🥅 2020 Goals: stay healthy
 - ⚡ Fun fact: I'm a homebody, Like cute things and biking around my city.
 
 ### Connect with me:
