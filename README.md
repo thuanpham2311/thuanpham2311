@@ -15,11 +15,7 @@
 
 <!-- <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
 
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://raw.githubusercontent.com/thuanpham2311/img/master/icons/youtube.svg" />][youtube] -->
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/thuanpham2311/img/master/icons/linkedin.svg" />][linkedin]
-
-<!-- [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://raw.githubusercontent.com/thuanpham2311/img/master/icons/facebook.svg" />][facebook] -->
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/thuanpham2311/img/master/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
