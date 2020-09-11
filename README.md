@@ -6,7 +6,7 @@
 
 ## I'm a Student and Developer!
 
-- 🌱 I’m currently learning stuff about data (data engineer)
+- 🌱 I’m currently learning front-end.
 - 👯 I’m seeking a Summer Internship.
 - 🥅 2020 Goals: stay healthy
 - ⚡ Fun fact: I'm a homebody, Like cute things and biking around my city.
