@@ -6,16 +6,14 @@
 
 ## I'm a Student and Developer!
 
-- 🌱 I’m currently learning front-end.
+- 🌱 I’m currently learning about data
 - 👯 I’m seeking a Summer Internship.
 - 🥅 2020 Goals: stay healthy
 - ⚡ Fun fact: I'm a homebody, Like cute things and biking around my city.
 
 ### Connect with me:
 
-Email: phamtanthuan2311@gmail.com
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/thuanpham2311/img/master/icons/linkedin.svg" />][linkedin]
+**Email: phamtanthuan2311@gmail.com**
 
 <br />
 <br />
