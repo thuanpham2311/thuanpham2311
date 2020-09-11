@@ -43,6 +43,4 @@
   <img align="center" alt="Thuan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham2311&layout=compact&hide_border=true" />
 </a>
 
-[youtube]: https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw
 [linkedin]: https://linkedin.com/in/thuanpham2311
-[facebook]: https://facebook.com/thuanpham2311
