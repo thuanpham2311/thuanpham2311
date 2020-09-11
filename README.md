@@ -4,25 +4,16 @@
      Hi there, I'm Thuan<img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif">
 </h1>
 
-## I'm a Student and Developer!
+## I'm a Student,...
 
-- 🌱 I’m currently learning about data
+- 🌱 I’m currently learning about data.
 - 👯 I’m seeking a Summer Internship.
-- 🥅 2020 Goals: stay healthy
-- ⚡ Fun fact: I'm a homebody, Like cute things and biking around my city.
+- 🥅 2020 Goals: stay healthy.
+- ⚡ Fun fact: I'm a homebody dude.
 
 ### Connect with me:
 
 Email: phamtanthuan2311@gmail.com
-
-### Languages and Tools:
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Neovim" width="26px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />
-<img align="left" alt="Chrome" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/chrome/chrome.png" />
 
 <br />
 <br />
