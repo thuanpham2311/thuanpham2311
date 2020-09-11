@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-<!-- <div>Icons made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
+Email: phamtanthuan2311@gmail.com
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/thuanpham2311/img/master/icons/linkedin.svg" />][linkedin]
 
@@ -42,5 +42,3 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="Thuan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham2311&layout=compact&hide_border=true" />
 </a>
-
-[linkedin]: https://linkedin.com/in/thuanpham2311
