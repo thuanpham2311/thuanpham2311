@@ -6,7 +6,7 @@
 
 ## I'm a Student,...
 
-- 🌱 I’m currently learning Front-end.
+- 🌱 I’m currently learning everything.
 - 👯 I’m seeking a Summer Internship.
 - 🥅 2020 Goals: stay healthy.
 - ⚡ Fun fact: I'm a homebody dude.
