@@ -4,7 +4,7 @@
      Hi there, I'm Thuan<img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif">
 </h1>
 
-## I'm a Student,...
+## I'm a Student, Weeaboo (I did a multiple choice test :D),...
 
 - 🌱 I’m currently learning everything.
 - 👯 I’m seeking a Summer Internship.
