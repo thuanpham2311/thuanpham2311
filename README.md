@@ -4,12 +4,12 @@
      Hi there, I'm Thuan<img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif">
 </h1>
 
-## I'm a Student, Weeaboo (I did a multiple choice test :D),...
+## I'm a Student, ...
 
 - 🌱 I’m currently learning everything.
 - 👯 I’m seeking a Summer Internship.
 - 🥅 2020 Goals: stay healthy.
-- ⚡ Fun fact: I'm a homebody dude.
+- ⚡ Fun fact: I'm a homebody, Weeaboo (I did [a multiple choice test] :D)
 
 ### Connect with me:
 
@@ -27,3 +27,5 @@ Email: phamtanthuan2311@gmail.com
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="Thuan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham2311&layout=compact&hide_border=true" />
 </a>
+
+[a multiple choice test]: https://www.proprofs.com/quiz-school/story.php?title=NjQxNzUw
