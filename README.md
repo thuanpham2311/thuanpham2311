@@ -7,7 +7,7 @@
 ## I'm a Student, ...
 
 - 🌱 I’m currently learning everything.
-- 👯 I’m seeking a Summer Internship.
+- 👯 I’m seeking a part-time job.
 - 🥅 2020 Goals: stay healthy.
 - ⚡ Fun fact: I'm a homebody, Weeaboo (I did [a multiple choice test] :D)
 
