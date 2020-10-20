@@ -4,7 +4,7 @@
      Hi there, I'm Thuan<img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif">
 </h1>
 
-## I'm a Student,...
+## I'm a Uni Student,...
 
 - 🌱 I’m currently learning everything.
 - 🥅 2020 Goals: stay healthy.
