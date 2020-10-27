@@ -27,4 +27,6 @@ Email: phamtanthuan2311@gmail.com
   <img align="center" alt="Thuan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham2311&layout=compact&hide_border=true" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=thuanpham2311)
+
 [a multiple choice test]: https://www.proprofs.com/quiz-school/story.php?title=NjQxNzUw
