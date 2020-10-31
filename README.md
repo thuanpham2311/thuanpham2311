@@ -20,6 +20,8 @@ Email: phamtanthuan2311@gmail.com
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=thuanpham2311)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="Thuan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thuanpham2311&show_icons=true&hide_border=true" />
 </a>
