@@ -28,4 +28,4 @@ Email: phamtanthuan2311@gmail.com
   <img align="center" alt="Thuan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham2311&layout=compact&hide_border=true" />
 </a>
 
-![](<![](https://komarev.com/ghpvc/?username=thuanpham2311&label=PROFILE+VIEWS)>)
+![](https://komarev.com/ghpvc/?username=thuanpham2311&label=PROFILE+VIEWS)
