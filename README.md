@@ -10,6 +10,7 @@
 
 ### Connect with me:
 
+Facebook: https://www.facebook.com/thuanpham2311/
 Email: phamtanthuan2311@gmail.com
 
 <br />
