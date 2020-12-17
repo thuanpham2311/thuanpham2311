@@ -5,7 +5,7 @@
 ## I'm a Uni Student,...
 
 - 🌱 I’m currently learning everything.
-- 🥅 2021 Goals: Real all my book (82/23).
+- 🥅 2021 Goals: Real all my book (23/82 done).
 - ⚡ Fun fact: I'm a homebody,...
 
 ### Connect with me:
