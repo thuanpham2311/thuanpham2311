@@ -10,6 +10,8 @@
 
 ### Connect with me:
 
+[![Thuan Pham's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/thuanpham2311)
+
 Facebook: https://www.facebook.com/thuanpham2311/
 
 Email: phamtanthuan2311@gmail.com
