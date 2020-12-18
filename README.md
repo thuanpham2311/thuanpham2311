@@ -10,7 +10,9 @@
 
 ### Connect with me:
 
-[![Thuan Pham's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/thuanpham2311)
+<a href="https://dev.to/thuanpham2311">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Thuan Pham's DEV Profile" height="30" width="30">
+</a>
 
 Facebook: https://www.facebook.com/thuanpham2311/
 
