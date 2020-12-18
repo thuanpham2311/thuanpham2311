@@ -10,10 +10,6 @@
 
 ### Connect with me:
 
-<a href="https://dev.to/thuanpham2311" style="border-style: solid;">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Thuan Pham's DEV Profile" height="30" width="30">
-</a>
-
 <a href="https://www.facebook.com/thuanpham2311/">
   <img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" alt="Thuan Pham's facebook profile" height="30" width="30">
 </a>
@@ -21,6 +17,8 @@
 <a href="mailto:phamtanthuan2311@gmail.com">
   <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" alt="Thuan Pham's email" height="30" width="30">
 </a>
+
+Email: phamtanthuan2311@gmail.com
 
 <br />
 <br />
