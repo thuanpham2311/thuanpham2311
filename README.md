@@ -14,7 +14,9 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Thuan Pham's DEV Profile" height="30" width="30">
 </a>
 
-Facebook: https://www.facebook.com/thuanpham2311/
+<a href="https://www.facebook.com/thuanpham2311/">
+  <img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" alt="Thuan Pham's facebook profile" height="30" width="30">
+</a>
 
 Email: phamtanthuan2311@gmail.com
 
