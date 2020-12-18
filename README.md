@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-<a href="https://dev.to/thuanpham2311">
+<a href="https://dev.to/thuanpham2311" style="border-style: solid;">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Thuan Pham's DEV Profile" height="30" width="30">
 </a>
 
