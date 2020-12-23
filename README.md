@@ -20,10 +20,10 @@
 
 **Email: phamtanthuan2311@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=thuanpham2311&label=PROFILE+VIEWS)
+<br />
+<br />
 
-<br />
-<br />
+![](https://komarev.com/ghpvc/?username=thuanpham2311&label=PROFILE+VIEWS)
 
 ---
 
