@@ -18,9 +18,9 @@
   <img src="https://static.xx.fbcdn.net/rsrc.php/yD/r/d4ZIVX-5C-b.ico" alt="Thuan Pham's facebook profile" height="30" width="30">
 </a>
 
-**Email: phamtanthuan2311@gmail.com**
-
 <br />
+<br />
+**Email: phamtanthuan2311@gmail.com**
 <br />
 
 ![](https://komarev.com/ghpvc/?username=thuanpham2311&label=PROFILE+VIEWS)
