@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning everything (IT, Front-end,...)
 
-✏️ Manjaro gnome & zsh & kitty & tmux & neovim & cascadia code
+✏️💻 Manjaro gnome & zsh & kitty & tmux & neovim & cascadia code
 
 🥅 **2021 Goals**: Real all my book (23/82 done).
 
