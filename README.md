@@ -2,7 +2,7 @@
      Hi there, I'm Thuan
 </h1>
 
-## I'm a Uni Student,...
+## I'm a student at Saigon Technology University
 
 - 🌱 I’m currently learning everything.
 - 🥅 2021 Goals: Real all my book (23/82 done).
