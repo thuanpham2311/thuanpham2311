@@ -3,7 +3,9 @@
 😎 **I'm Thuan, Student at Saigon Technology University** <img src="https://camo.githubusercontent.com/7d5c1327f28f30dd3b242d60c92fa399051bd5765af36f7c8df5138ac67d8f7b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6659536e486c75667365636f38466839335a2f67697068792e676966" width="25"/>
 
 🌱 I’m currently learning everything (IT, Front-end,...)
+
 ✏️ Manjaro gnome & zsh & kitty & tmux & neovim & cascadia code
+
 🥅 **2021 Goals**: Real all my book (23/82 done).
 
 💕 **My passions**:
