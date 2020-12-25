@@ -15,8 +15,6 @@
 - 📔 Books
 - 🏞️ Nature
 
----
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="Thuan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thuanpham2311&show_icons=true&hide_border=true" />
 </a>
@@ -24,8 +22,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="Thuan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham2311&layout=compact&hide_border=true" />
 </a>
-
----
 
 **Connect with me:**
 
