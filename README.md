@@ -23,6 +23,8 @@
   <img align="center" alt="Thuan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham2311&layout=compact&hide_border=true&theme=gruvbox" />
 </a>
 
+<br />
+
 **Connect with me:**
 
 <a href="https://dev.to/thuanpham2311">
