@@ -1,3 +1,7 @@
+<style>
+    .invert:hover {filter: invert(100%)}
+</style>
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 ![](./img/Work_from_anywhere.png)
@@ -19,11 +23,11 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a class="invert" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="Thuan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thuanpham2311&show_icons=true&hide_border=true" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a class="invert" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" alt="Thuan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuanpham2311&layout=compact&hide_border=true" />
 </a>
 
@@ -34,12 +38,12 @@
 
 **Connect with me:**
 
-<a href="https://dev.to/thuanpham2311">
+<a class="invert" href="https://dev.to/thuanpham2311">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Thuan Pham's DEV Profile" height="30" width="30">
 </a>
 
-<a href="https://www.facebook.com/thuanpham2311/">
-  <img src="./img/facebook.png" alt="Thuan Pham's facebook profile" height="30" width="30">
+<a class="invert" href="https://www.facebook.com/thuanpham2311/">
+<img src="./img/facebook.png" alt="Thuan Pham's facebook profile" height="30" width="30"">
 </a>
 
 <br />
