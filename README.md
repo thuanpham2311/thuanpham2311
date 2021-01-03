@@ -35,11 +35,11 @@
 **Connect with me:**
 
 <a href="https://dev.to/thuanpham2311">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Thuan Pham's DEV Profile" height="30" width="30" style="filter: invert(50%)">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Thuan Pham's DEV Profile" height="30" width="30">
 </a>
 
 <a href="https://www.facebook.com/thuanpham2311/">
-  <img src="./img/facebook.png" alt="Thuan Pham's facebook profile" height="30" width="30" style="filter: invert(50%)">
+  <img src="./img/facebook.png" alt="Thuan Pham's facebook profile" height="30" width="30">
 </a>
 
 <br />
