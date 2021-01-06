@@ -8,7 +8,7 @@
 
 ✏️💻 Manjaro gnome & zsh & kitty & tmux & neovim & cascadia code
 
-🥅 **2021 Goals**: Real all my book (23/82 done).
+🥅 **2021 Goals**: build 12 habits in 12 months.
 
 💕 **My passions**:
 
