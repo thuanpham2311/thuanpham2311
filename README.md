@@ -29,19 +29,9 @@
 
 ---
 
-<br />
-<br />
+**My website: [http://thuanpham2311.github.io/](http://thuanpham2311.github.io/)**
 
-**Connect with me:**
-
-<a href="https://www.facebook.com/thuanpham2311/">
-  <img src="./img/facebook.png" alt="Thuan Pham's facebook profile" height="30" width="30">
-</a>
-
-<br />
-<br />
-
-**Email: phamtanthuan2311@gmail.com**
+**Email: [phamtanthuan2311@gmail.com](mailto:phamtanthuan2311@gmail.com)**
 
 <br />
 
