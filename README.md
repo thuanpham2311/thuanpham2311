@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning everything (IT, Front-end,...)
 
-✏️💻 Manjaro gnome & zsh & kitty & tmux & neovim & cascadia code
+✏️💻 Ubuntu & zsh & kitty & tmux & neovim & cascadia code
 
 🥅 **2021 Goals**: build 12 habits in 12 months.
 
