@@ -29,7 +29,7 @@
 
 ---
 
-**My website: [http://thuanpham2311.github.io/](http://thuanpham2311.github.io/)**
+**My website: [https://thuanpham2311.github.io/](https://thuanpham2311.github.io/)**
 
 **Email: [phamtanthuan2311@gmail.com](mailto:phamtanthuan2311@gmail.com)**
 
