@@ -29,7 +29,7 @@
 
 ---
 
-**Blog: https://www.thuanpham2311.github.io**
+**Blog: https://thuanpham2311.github.io**
 
 **Videos: https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw**
 
