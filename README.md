@@ -29,11 +29,11 @@
 
 ---
 
-**Blog: thuanpham2311.github.io**
+**Blog: http://thuanpham2311.github.io**
 
-**Videos: youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw**
+**Videos: https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw**
 
-**Photos: instagram.com/thuanpham2311**
+**Photos: https://www.instagram.com/thuanpham2311**
 
 **Email: [phamtanthuan2311@gmail.com](mailto:phamtanthuan2311@gmail.com)**
 
