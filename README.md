@@ -6,7 +6,7 @@
 
 😎 When not working, I enjoy spending time 🚴cycling and 📔reading.
 
-💻 My setup: Linux, kitty, zsh, tmux, neovim and cascadia code
+💻 My setup: PopOs , kitty, zsh, tmux, neovim, font cascadia code, theme -paper color & gruvbox-
 
 ---
 
