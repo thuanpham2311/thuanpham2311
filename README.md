@@ -20,11 +20,11 @@
 
 ---
 
-**✍Blog: [https://thuanpham2311.github.io](https://thuanpham2311.github.io)**
+**✍Blog: [thuanpham2311.github.io](https://thuanpham2311.github.io)**
 
-**📹Videos: [https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw ](https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw)**
+**📹Videos: [youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw ](https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw)**
 
-**📷Photos: [https://www.instagram.com/thuanpham2311](https://www.instagram.com/thuanpham2311)**
+**📷Photos: [instagram.com/thuanpham2311](https://www.instagram.com/thuanpham2311)**
 
 **📧Email: [phamtanthuan2311@gmail.com](mailto:phamtanthuan2311@gmail.com)**
 
