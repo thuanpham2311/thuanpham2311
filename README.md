@@ -38,6 +38,10 @@
   <a href="mailto:phamtanthuan2311@gmail.com">
     <img src="./img/icons/gmail.svg" width="26px"/>
   </a>
+  &emsp;
+  <a href="http://linkedin.com/in/thuanpham2311">
+    <img src="./img/icons/linkedin.svg" width="26px"/>
+  </a>
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
