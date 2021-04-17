@@ -5,7 +5,7 @@
 
 <p> I'm a IT <strong>student</strong> with a passion for building highly <strong>usable web applications</strong>.</p>
 
-<img src="./img/ongDev.png" height="25%" width="25%">
+<img src="./img/test/ongDev.avif">
 
 <br>
 
