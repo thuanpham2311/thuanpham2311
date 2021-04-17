@@ -42,10 +42,6 @@
   <a href="http://linkedin.com/in/thuanpham2311">
     <img src="./img/icons/linkedin.svg" width="26px"/>
   </a>
-  <br><br>
+ <br><br>
   <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="">
-    <img src="https://komarev.com/ghpvc/?username=thuanpham2311">
-  </a>
 </div>
