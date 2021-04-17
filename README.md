@@ -45,13 +45,7 @@
   <br><br>
   <strong>Check out my work below!</strong>
   <br><br>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/thuanpham2311/thuanpham2311?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://github.com/thuanpham2311?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/thuanpham2311?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/thuanpham2311?style=flat-square&color=blue&logo=github">
+  <a href="">
+    <img src="https://komarev.com/ghpvc/?username=thuanpham2311">
   </a>
 </div>
