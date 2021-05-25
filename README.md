@@ -43,5 +43,4 @@
     <img src="./img/icons/linkedin.svg" width="26px"/>
   </a>
 <br>
-  <strong>Check out my work below!</strong>
 </div>
