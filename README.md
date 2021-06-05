@@ -15,10 +15,6 @@
 
 <br>
 
-  <a href="https://www.instagram.com/thuanpham2311">
-    <img src="./img/icons/instagram.svg" width="24px"/>
-  </a>
-  &emsp;
   <a href= "https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw">
     <img src="./img/icons/youtube.svg" width="28px"/>
   </a>
