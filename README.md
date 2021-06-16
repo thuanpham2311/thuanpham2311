@@ -3,7 +3,7 @@
 
 <br>
 
-<p> I'm a IT <strong>student</strong> with a passion for building <strong>highly usable web applications</strong>.</p>
+<p> I'm an IT <strong>student</strong> with a passion for building <strong>highly usable web applications</strong>.</p>
 
 <img src="./img/ongDev.webp">
 
