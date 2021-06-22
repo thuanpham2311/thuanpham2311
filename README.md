@@ -15,27 +15,31 @@
 
 <br>
 
-  <a href= "https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw">
-    <img src="./img/icons/youtube.svg" width="28px"/>
+  <a target="_blank" rel="noopener noreferrer" href= "https://www.youtube.com/channel/UCLAeh5SDjUBOjnE8HTXJLGw">
+    <img src="./img/icons/youtube.svg" width="26px"/>
   </a>
   &emsp;
-  <a href="http://thuanpham2311.github.io/">
-    <img src="./img/icons/blog.svg" width="30px"/>
+  <a target="_blank" rel="noopener noreferrer" href= "https://photos.app.goo.gl/DHmPLryYPK4fp2xDA">
+    <img src="./img/icons/photos.svg" width="26px"/>
   </a>
   &emsp;
-  <a href="https://www.youtube.com/playlist?list=PLiK7Zu7FR9jVJyURcW5nmXveGzJ1DAvf5">
-    <img src="./img/icons/music.svg" width="28px"/>
+  <a target="_blank" rel="noopener noreferrer" href="http://thuanpham2311.github.io/">
+    <img src="./img/icons/blog.svg" width="26px"/>
   </a>
   &emsp;
-  <a href="https://m.me/thuanpham2311">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/playlist?list=PLiK7Zu7FR9jVJyURcW5nmXveGzJ1DAvf5">
+    <img src="./img/icons/music.svg" width="26px"/>
+  </a>
+  &emsp;
+  <a target="_blank" rel="noopener noreferrer" href="https://m.me/thuanpham2311">
     <img src="./img/icons/chat.svg" width="26px"/>
   </a>
   &emsp;
-  <a href="mailto:phamtanthuan2311@gmail.com">
+  <a target="_blank" rel="noopener noreferrer" href="mailto:phamtanthuan2311@gmail.com">
     <img src="./img/icons/gmail.svg" width="26px"/>
   </a>
   &emsp;
-  <a href="http://linkedin.com/in/thuanpham2311">
+  <a target="_blank" rel="noopener noreferrer" href="http://linkedin.com/in/thuanpham2311">
     <img src="./img/icons/linkedin.svg" width="26px"/>
   </a>
 <br>
